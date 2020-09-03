@@ -5,12 +5,15 @@
 `host=accoun.xxx-xx-x.xxx.xxxxxxxxxxx.com;account=gr73978;user=xxxx;password=xxxx;db=xxxx;schema=xxxxx` 
 
 # INSTALLATION :white_check_mark:
-* clone
+* git clone
 * dotnet restore
 * dotnet build
 * dotnet run
 
 # NOTE :red_circle:
+* nuget package used Snowflake.Data
 * dotnet core CLI
-* VERSION 3.0
+* dotnet VERSION 3.0
+* built with vscode and dotnet cli
+* code scaffolding with dotnet cli
 
