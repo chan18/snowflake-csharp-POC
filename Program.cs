@@ -14,8 +14,6 @@ namespace Azure_Snowflake
 
             try
             {
-                
-                // snowsql -a gr73978 -u ThangaganeshSoundarapandian  -p Ganesh@0987
                 // add connection  string here.
                  string snowflakeConnectionString =
                  "";
